@@ -1,8 +1,17 @@
-# VEGA Telegram Bot Manager
+<div align="center">
 
-A Pyrogram-based Telegram bot management system branded as **VEGA**. The project provides an interactive control panel for creating and managing child bots, maintaining a user registry, sending broadcasts, administering access, and monitoring the host environment.
+# 🤖 VEGA Telegram Bot Manager
 
-> **Source-based documentation:** This README describes the functionality visible in the supplied source archive. Some runtime dependencies and template files referenced by the code are not included in that archive; see [Project limitations](#project-limitations).
+**A Pyrogram-based Telegram bot management system with child-bot creation, administration, broadcasting, and server monitoring.**
+
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Pyrogram](https://img.shields.io/badge/Framework-Pyrogram-2CA5E0?style=for-the-badge)](https://docs.pyrogram.org/)
+[![Redis](https://img.shields.io/badge/Database-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+[![Telegram](https://img.shields.io/badge/Telegram-Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.org/)
+
+**VEGA & Logic** · By [@TopVeGa](https://t.me/TopVeGa)
+
+</div>
 
 ## Features
 
@@ -170,3 +179,21 @@ Operate the bot only in chats, channels, and accounts where you have permission.
 Developer reference in source: [@TopVeGa](https://t.me/TopVeGa)
 
 Copyright and third-party rights remain with their respective owners. Check the original project license and dependency licenses before redistribution.
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                       Copyright | Footer                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:0F172A&height=4&width=40%&section=header" />
+  <br><br>
+  <p style="color: #9CA3AF; font-size: 14px;">
+    <b style="color: #3B82F6;">Brand:</b> VEGA &amp; Logic &nbsp;|&nbsp;
+    <b style="color: #3B82F6;">Copyright:</b> © 2015 - 2025
+  </p>
+  <p style="color: #6B7280; font-size: 12px;">
+  </p>
+</div>
+<br>
+<!-- Smooth Gradient Footer Background -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:1E3A8A,100:0F172A&height=120&section=footer" width="100%" />
+
